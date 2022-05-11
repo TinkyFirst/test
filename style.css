@@ -1,0 +1,14 @@
+.content{
+    display: none;
+}
+.Click{
+    cursor: pointer;
+    padding-top: 400px;
+}
+body{
+    background-color:  #3d2922;
+    color: #f7f2ee;
+}
+h1{
+    text-align: center;
+}
